@@ -6,7 +6,7 @@ double add(num1,num2) {
 int main() {
     double num1, num2, result;
     
-    printf("Simple Addition Calculator\n");
+    printf("Simple 2-Numbers Calculator\n");
     printf("Enter first number: ");
     scanf("%lf", &num1);
     
