@@ -1,7 +1,7 @@
 # Calculatorbaprodosen
 Making calculator in C, using github as collaboration space
 
-Banna Farhan: Team leader
-Raiya Bintang: Making calculator
+Banna Farhan
+Raiya Bintang
 Ghazwan Rosyid
 Adyano Rafi Bevan
